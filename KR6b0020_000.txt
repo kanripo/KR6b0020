@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 太子墓魄經
+#+DATE: 2015-08-30 19:33:59.241555
+#+PROPERTY: JUAN 0
