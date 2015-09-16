@@ -1,0 +1,6 @@
+001-0410a26	TKD 11-0373b	buddhist/K-koreana/11-tif/0300-0399/11_0373_B.TIF
+001-0410b20	TKD 11-0373c	buddhist/K-koreana/11-tif/0300-0399/11_0373_C.TIF
+001-0410c10	TKD 11-0374a	buddhist/K-koreana/11-tif/0300-0399/11_0374_A.TIF
+001-0410b00	T 001-0410b	buddhist/T-taisho/T03/04/T03-0410.png
+001-0410c00	T 001-0410c	buddhist/T-taisho/T03/04/T03-0410.png
+001-0411a00	T 001-0411a	buddhist/T-taisho/T03/04/T03-0411.png
