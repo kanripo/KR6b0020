@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:33:59.069574
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 6:52
 #+TITLE: 太子墓魄經
 #+PROPERTY: CBETA_ID T03n0168
 #+PROPERTY: ID KR6b0020
